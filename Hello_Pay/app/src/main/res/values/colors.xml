@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff9800</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff9100</color>
+    <color name="status_bar">#543b04</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background">#e3ffffff</color>
+    <color name="ripple_color">#7b7b7b</color>
+    <color name="circle">#ecebeb</color>
+</resources>

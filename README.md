@@ -1,1 +1,1 @@
-Payment System About to drop
+Payment application for Hello Cash
